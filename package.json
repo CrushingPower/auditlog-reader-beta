@@ -1,3 +1,6 @@
 {
-
+  "main": "auditlog-reader-beta.js",
+    "scripts": {
+      "start": "node auditlog-reader-beta.js"
+    },
 }
