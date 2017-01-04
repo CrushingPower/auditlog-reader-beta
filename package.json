@@ -1,6 +1,11 @@
 {
   "main": "auditlog-reader-beta.js",
     "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
       "start": "node auditlog-reader-beta.js"
     },
+   "repository": {
+    "type": "git",
+    "url": "https://github.com/sentanos/roblox-js-server.git"
+    }
 }
