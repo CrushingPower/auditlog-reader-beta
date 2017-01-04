@@ -1,0 +1,5 @@
+var Check = function() {
+	console.log("TEST");
+}
+
+<select id="https://www.roblox.com/Groups/Audit.aspx?groupid=936982&pageNum=1&actionTypeId=5" onchange="Check()">
